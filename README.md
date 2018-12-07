@@ -1,8 +1,9 @@
-# group_project
+# Group_project
 
-## group19 
-## model selection and model diagnostics
+## Group19: Mimi Tran, Yijia Zhang, Zhenbang Jiao
 
-Mimi Tran 
-Yijia Zhang 
-Zhenbang Jiao
+## Topic: linear regression: model selection & model diagnostics
+
+## Data: A medical cost personal dataset  (https://www.kaggle.com/mirichoi0218/insurance)
+
+### Happy coding~
